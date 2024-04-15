@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSONtestWPF", "JSONtestWPF\JSONtestWPF.csproj", "{2CF6C391-99F7-4478-B950-A107E80DE2EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CF6C391-99F7-4478-B950-A107E80DE2EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CF6C391-99F7-4478-B950-A107E80DE2EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CF6C391-99F7-4478-B950-A107E80DE2EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CF6C391-99F7-4478-B950-A107E80DE2EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E63483C3-E049-46A5-95F9-42F93020F8EA}
+	EndGlobalSection
+EndGlobal
